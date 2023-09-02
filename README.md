@@ -14,7 +14,7 @@ Familiarizarse con los comandos básicos de git y con la consola de rails.
 
 ### Crear cuentas
 1. Crear una cuenta en github si no tienen una [https://github.com/signup](https://github.com/signup)
-1. Crear una cuenta en [Gitpod](https://gitpod.io/login/)
+1. Crear una cuenta en [Gitpod](https://gitpod.io/login/). Al validar el teléfono usar +54 9 ...
 1. Actualizar la integración de Github en Gitpod [https://gitpod.io/integrations](https://gitpod.io/integrations) para incluir los permisos: `public_repo`, `repo`
 
 ### Preparar repositorio
